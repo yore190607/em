@@ -1,6 +1,6 @@
 {
-  "name": "Serene_Horizon",
-  "description": "An epic scenery",
+  "name": "ron",
+  "description": "論のtheme",
   "version": "1.0",
   "authors": [
     {
@@ -23,7 +23,7 @@
     ],
     "TEXT_MUTED": [
       "#b1b1b1",
-      "#747f8d"
+      "#e63f1e"
     ],
     "INTERACTIVE_NORMAL": [
       "#8961ba",
